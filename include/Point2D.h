@@ -1,8 +1,9 @@
+#pragma once
 namespace Cxx11Shapes
 {
 
 /**
- * A class to managing operations common to any 2D point using a given type for
+ * A class for managing operations common to any 2D point using a given type for
  * storing the X and Y coordinates.
  */
 template<typename T>
